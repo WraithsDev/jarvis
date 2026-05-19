@@ -5,10 +5,10 @@ Bu proje Windows üzerinde çalışan sesli/arayüzlü kişisel asistan uygulama
 ## Destek ve Kurulum Videosu
 
 Kurulumda takılırsan veya güncellemeleri takip etmek istersen Discord sunucusuna katılabilirsin:
-Discord: https://discord.gg/vsc
+https://discord.gg/vsc
 
 Adım adım kurulum videosu için:
-YouTube: https://www.youtube.com/watch?v=WiYbVYGKxO8
+https://www.youtube.com/watch?v=WiYbVYGKxO8
 
 
 ## 1. Gerekenler
